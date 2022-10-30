@@ -1,5 +1,5 @@
 {
-  "name": "x-asena",
+  "name": "🍭 NITHEESH 🍭",
   "description": "X-asena Multi Device whatsappbot",
   "logo": "https://i.hizliresim.com/6Bbj7i.jpg",
   "keywords": ["whatsapp"],
@@ -34,7 +34,7 @@
       "required": false
     },
     "PACKNAME": {
-      "description": "Sticker Packname",
+      "description": "NITHEESH",
       "required": false
     },
 
